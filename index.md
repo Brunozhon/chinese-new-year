@@ -36,7 +36,7 @@ If yes, congratulations! Accoriding to the quote, you...
 
 | Sunday | Monday | Tuesday | Wedensday | Thursday | Friday | Saturday |
 |---|---|---|---|---|---|---|
-| 30 | 31 | **1 (New Year's Day 2022)** | 2 | 3 | 4 | 5 |
+| 30 | 31 | **1 (New Year's Day 2022)** | 2 | 3 | 4 **([Zichun's](https://zichunzhong.github.io/) \[My Dad's\] Birthday)** | 5 |
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | 13 | 14 **(Valentine's Day)** | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
