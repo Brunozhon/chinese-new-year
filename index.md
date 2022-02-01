@@ -32,6 +32,17 @@ If yes, congratulations! Accoriding to the quote, you...
 
 > Numbers 1-5 are the good, numbers 6-8 are the bad, and number 9 is the ugly.
 
+## Calendar
+
+| Sunday | Monday | Tuesday | Wedensday | Thursday | Friday | Saturday |
+|---|---|---|---|---|---|---|
+| 30 | 31 | **1 (New Year's Day 2022)** | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 **(Valentine's Day)** | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 1 **(Bruno's Birthday)** | 2 | 3 | 4 | 5 |
+
+
 > Past years:
 > 
 > - [2021](2021)
