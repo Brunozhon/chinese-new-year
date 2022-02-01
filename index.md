@@ -20,15 +20,17 @@ Are you born in the year of the tiger? The years are (in the past century, accor
 
 If yes, congratulations! Accoriding to the quote, you...
 
-1. are "courageous and energetic" *(The good)*
+1. are "courageous and energetic"
 2. "love a challange"
 3. "are prepared to take risks"
 4. "are hungry for excitement"
 5. "crave attention"
-6. "can ... be rebbelious" *(The bad)*
+6. "can ... be rebbelious"
 7. "can ... be ... short-tempered"
 8. "can ... be ... outspoken"
-9. can prefer "to give orders rather than take them, which often leads to confict." *(And the ugly)*
+9. can prefer "to give orders rather than take them, which often leads to confict."
+
+> Numbers 1-5 are the good, numbers 6-8 are the bad, and number 9 is the ugly.
 
 > Past years:
 > 
