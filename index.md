@@ -6,7 +6,7 @@ This year is the Year of the Tiger!
 
 Tigers are "...courageous and energetic, love a challenge or competition and are prepared to take risks. They are hungry for excitement and crave attention. They can also be rebellious, short-tempered and outspoken, prefering to give orders rather than take them, which often leads to conflict." (Victoria and Albert Muesem)
 
-Are you born in the year of the tiger? The years are (in the past century, according to CNET):
+**QUESTION OF THE YEAR** Are you born in the year of the tiger? The years are (in the past century, according to CNET):
 
 - 1926
 - 1938
